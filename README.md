@@ -14,7 +14,7 @@ The "I Love Cybersecurity" project will challenge your knowledge in encryption, 
 ## How It Works
 
 1. **Exploring the Code**:
-   Throughout this repository, you will find numerous base64-encoded strings. Some of these strings are important, others are decoys. One of the encoded strings might be `dW5ldGhpY2FsaGFja2Vy` — but is it the one you’re looking for? Maybe, or maybe not.
+   Throughout this repository, you will find numerous base64-encoded strings. Some of these strings are important, others are decoys. One of the encoded strings might be `VGhpcyBpcyBub3Qgd2hhdCB5b3UgYXJlIGxvb2tpbmcgZm9y` — but is it the one you’re looking for? Maybe, or maybe not.
 
 2. **Identifying the Right Hint**:
    You’ll encounter several strings like:
