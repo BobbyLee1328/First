@@ -22,4 +22,4 @@ In this project, we encourage you to explore the world of cybersecurity by solvi
 3. **Analyze the Code**:
    Review the code, including comments and variable names, as they might provide subtle hints. For example, you may find something like:
    ```python
-   # Base64 encoding helps with data integrity: dW5ldGhpY2FsaGFja2Vy
+
